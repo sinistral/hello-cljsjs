@@ -1,0 +1,4 @@
+
+{:require [hellocljsjs.core]
+ :optimizations    :none
+ :compiler-options {:target :nodejs}}

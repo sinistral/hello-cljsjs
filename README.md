@@ -1,13 +1,12 @@
-# hello [cljsjs]
+## Hello, [CLJSJS].
 
 A minimal "hello, world" project using [ClojureScript], [Boot], and [cljsjs].
 It illustrates the barest minimum needed to consume cljsjs packages such that
 they can be deployed to a production ([Node.js]) environment.
 
-Copyright © 2017 Marc Daya
+## License
 
-Distributed under the Eclipse Public License either version 1.0 or (at your
-option) any later version.
+Published under the [2-clause BSD license][license].
 
 [clojurescript]: http://clojure.org/about/clojurescript
 [cljsjs]:        http://cljsjs.github.io

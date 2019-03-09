@@ -1,5 +1,5 @@
 
-(ns hellocljsjs.core
+(ns hello-cljsjs.core
   (:require [cljsjs.js-joda]))
 
 (def joda js/JSJoda)

@@ -1,4 +1,4 @@
 
-{:require [hellocljsjs.core]
+{:require [hello-cljsjs.core]
  :optimizations    :none
  :compiler-options {:target :nodejs}}

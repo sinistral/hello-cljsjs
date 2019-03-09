@@ -28,7 +28,7 @@
           #{"build-resources/cljs-config"})
 
 (def +build-ids+
-  #{"hellocljsjs"})
+  #{"hello-cljsjs"})
 
 (deftask dev
   []

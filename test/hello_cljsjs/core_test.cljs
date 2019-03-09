@@ -1,7 +1,7 @@
 
-(ns hellocljsjs.core-test
+(ns hello-cljsjs.core-test
   (:require [cljs.test        :refer-macros [deftest testing is]]
-            [hellocljsjs.core :refer        [main]]))
+            [hello-cljsjs.core :refer        [main]]))
 
 (deftest test:a-thing
   (is (nil? (main))))

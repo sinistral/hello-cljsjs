@@ -12,3 +12,4 @@ Published under the [2-clause BSD license][license].
 [cljsjs]:        http://cljsjs.github.io
 [boot]:          http://boot-clj.com
 [Node.js]:       https://nodejs.org/en/
+[license]:       https://opensource.org/licenses/BSD-2-Clause
